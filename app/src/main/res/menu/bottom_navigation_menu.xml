@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AllNewsFragment"
+        android:enabled="true"
+        android:icon="@drawable/all_news"
+        android:title="" />
+    <item
+        android:id="@+id/searchFragment"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        android:title="" />
+    <item
+        android:id="@+id/currencyFragment"
+        android:enabled="true"
+        android:icon="@drawable/currency"
+        android:title="" />
+</menu>
